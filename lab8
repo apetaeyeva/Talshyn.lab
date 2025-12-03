@@ -1,7 +1,0 @@
-text = "Hello, Python!"
-
-print("Исходная строка:", text)
-print("В верхнем регистре:", text.upper())
-print("В нижнем регистре:", text.lower())
-print("Количество букв 'o':", text.count("o"))
-print("Замена 'Python' на 'World':", text.replace("Python", "World"))
