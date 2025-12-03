@@ -1,0 +1,17 @@
+# while
+i = 1
+while i <= 5:
+    print("while:", i)
+    i += 1
+
+# for
+for j in range(1, 6):
+    print("for:", j)
+
+# do while (эмуляция)
+k = 1
+while True:
+    print("do while:", k)
+    k += 1
+    if k > 5:
+        break
